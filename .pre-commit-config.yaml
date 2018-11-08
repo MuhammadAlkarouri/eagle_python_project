@@ -1,0 +1,6 @@
+-   repo: local
+    hooks:
+    -   id: system
+        name: format
+        entry: make format
+        language: system
